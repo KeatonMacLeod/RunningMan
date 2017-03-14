@@ -1,4 +1,13 @@
-Introduction:
+How to Install / Play:
+--------------
+Go to the green button above that says clone / download and click download ZIP!
+
+Then, navigate to the "Release" folder inside the original "Running Man Master Folder"
+
+Double click on the "RunningMan.exe" file that has the type "Application" and you're set!
+-------------
+
+Bio:
 -------------
 
 Hello!
@@ -28,19 +37,5 @@ Collect all the gems to get the best highscore!
 ![githubscreenshot](https://cloud.githubusercontent.com/assets/15184861/23838157/8c693be2-0760-11e7-8b09-0b4c772a1a41.png)
 
 Now, can you beat it?
-
--------------
-
-
-Installation Instructions:
---------------
-
-If you are getting errors regarding .dll files, you can download both the x64 and x86 versions of "Visual C++ Redistributable for Visual Studio 2015" at https://www.microsoft.com/en-ca/download/details.aspx?id=48145
-
-If the solution above does not work:
-
-1.) Use this link to get rid of the "MSVCP140D.dll" error: https://www.youtube.com/watch?v=61vwFxnnh5c
-
-2.) Use this link to get rid of the "VCRUNTIME140D.dll" error:https://www.youtube.com/watch?v=-R3LuYNQf98
 
 -------------
