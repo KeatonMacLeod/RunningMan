@@ -1,7 +1,9 @@
 How to Install / Play:
 --------------
 
-1.) If you have Visual Studios 2015 Installed, you can omit this step. If you do not have Visual Studios Community 2015 Installed, go to https://www.microsoft.com/en-ca/download/details.aspx?id=48145 and download both the x64 and x86 versions of the Visual Studio Redistributable file.
+<i>If you have Visual Studios 2015 Installed, you can omit step 1.)</i>
+
+1.) If you do not have Visual Studios Community 2015 Installed, go to https://www.microsoft.com/en-ca/download/details.aspx?id=48145 and download both the x64 and x86 versions of the Visual Studio Redistributable file.
 
 2.) Go to the green button above that says clone / download and click download ZIP.
 
