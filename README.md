@@ -3,7 +3,7 @@ How to Install / Play:
 
 1.) Go to the green button above that says clone / download and click download ZIP.
 
-2.) When the download finishes, navigate to the "Release" folder inside the original "Running Man Master Folder"
+2.) When the download finishes, navigate to the <strong>Release" folder inside the original</strong> "Running Man Master Folder"
 
 3.) Double click on the "RunningMan.exe" file that has the type "Application" and you're set!
 <br /><br /><br />
