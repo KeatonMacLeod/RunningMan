@@ -1,16 +1,13 @@
 How to Install / Play:
 --------------
 
-<i>If you have Visual Studios 2015 Installed, you can omit step #1</i>
+1.) Go to the green button above that says clone / download and click download ZIP.
 
-1.) If you do not have Visual Studios Community 2015 Installed, go to https://www.microsoft.com/en-ca/download/details.aspx?id=48145 and download both the x64 and x86 versions of the Visual Studio Redistributable file.
+2.) When the download finishes, navigate to the <strong>Release</strong> folder inside the <strong>Running Man Master Folder</strong>
 
-2.) Go to the green button above that says clone / download and click download ZIP.
+3.) Double click on the <strong>RunningMan.exe</strong> file that has the type <strong>Application</strong> and the game will start!
 
-3.) When the download finishes, navigate to the <strong>Release</strong> folder inside the <strong>Running Man Master Folder</strong>
-
-4.) Double click on the <strong>RunningMan.exe</strong> file that has the type <strong>Application</strong> and the game will start!
-
+If you are getting an error such as <strong>MSVCP140D.dll is missing from your computer</strong>, go to https://www.microsoft.com/en-ca/download/details.aspx?id=48145 and download both the x64 and x86 versions of the Visual Studio Redistributable file.
 <br /><br />
 Bio:
 -------------
