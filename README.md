@@ -1,13 +1,13 @@
 How to Install / Play:
 --------------
 
-Go to the green button above that says clone / download and click download ZIP!
+1.) Go to the green button above that says clone / download and click download ZIP.
 
-Then, navigate to the "Release" folder inside the original "Running Man Master Folder"
+2.) When the download finishes, navigate to the "Release" folder inside the original "Running Man Master Folder"
 
-Double click on the "RunningMan.exe" file that has the type "Application" and you're set!
+3.) Double click on the "RunningMan.exe" file that has the type "Application" and you're set!
 
--------------
+
 
 Bio:
 -------------
@@ -16,7 +16,7 @@ Hello!
 
 I made this game to get a better understanding of how to do game development; I hope you guys enjoy playing!
 
--------------
+
 
 
 Game Description:
@@ -40,4 +40,4 @@ Collect all the gems to get the best highscore!
 
 Now, can you beat it?
 
--------------
+
