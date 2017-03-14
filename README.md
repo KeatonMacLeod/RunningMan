@@ -1,9 +1,12 @@
+Introduction:
+-------------
+
 Hello!
 
 I made this game to get a better understanding of how to do game development; I hope you guys enjoy playing!
 
 How to Install / Play:
---------------
+---------------------
 
 1.) Go to the green button above that says clone / download and click download ZIP.
 
