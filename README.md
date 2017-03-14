@@ -6,14 +6,14 @@ How to Install / Play:
 2.) When the download finishes, navigate to the "Release" folder inside the original "Running Man Master Folder"
 
 3.) Double click on the "RunningMan.exe" file that has the type "Application" and you're set!
-<br /><br /><br /><br />
+<br /><br /><br />
 Bio:
 -------------
 
 Hello!
 
 I made this game to get a better understanding of how to do game development; I hope you guys enjoy playing!
-<br /><br /><br /><br />
+<br /><br /><br />
 Game Description:
 -----------------
 
