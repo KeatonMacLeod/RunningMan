@@ -1,3 +1,7 @@
+Hello!
+
+I made this game to get a better understanding of how to do game development; I hope you guys enjoy playing!
+
 How to Install / Play:
 --------------
 
@@ -10,14 +14,7 @@ How to Install / Play:
 If you are getting an error such as <b>MSVCP140D.dll is missing from your computer</b>, go to https://www.microsoft.com/en-ca/download/details.aspx?id=48145 and download both the x64 and x86 versions of the Visual Studio Redistributable file.
 
 <br /><br />
-Bio:
--------------
 
-Hello!
-
-I made this game to get a better understanding of how to do game development; I hope you guys enjoy playing!
-
-<br /><br />
 Game Description:
 -----------------
 
