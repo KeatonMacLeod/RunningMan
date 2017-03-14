@@ -8,6 +8,7 @@ How to Install / Play:
 3.) Double click on the <strong>RunningMan.exe</strong> file that has the type <strong>Application</strong> and the game will start!
 
 If you are getting an error such as <b>MSVCP140D.dll is missing from your computer</b>, go to https://www.microsoft.com/en-ca/download/details.aspx?id=48145 and download both the x64 and x86 versions of the Visual Studio Redistributable file.
+
 <br /><br />
 Bio:
 -------------
