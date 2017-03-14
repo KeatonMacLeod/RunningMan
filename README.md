@@ -9,14 +9,15 @@ How to Install / Play:
 
 4.) Double click on the <strong>RunningMan.exe</strong> file that has the type <strong>Application</strong> and the game will start!
 
-<br /><br /><br />
+<br /><br />
 Bio:
 -------------
 
 Hello!
 
 I made this game to get a better understanding of how to do game development; I hope you guys enjoy playing!
-<br /><br /><br />
+
+<br /><br />
 Game Description:
 -----------------
 
