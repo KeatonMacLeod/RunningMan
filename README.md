@@ -10,6 +10,8 @@ I made this game to get a better understanding of how to do game development; I 
 How to Install / Play:
 ---------------------
 
+(Does not currently support Mac OS)
+
 1.) Go to the green button above that says <strong>clone or download</strong> and click download ZIP.
 
 2.) When the download finishes, navigate to the <strong>Release</strong> folder inside the <strong>Running Man Master Folder</strong>
