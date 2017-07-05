@@ -25,9 +25,9 @@ If you are getting an error such as <b>MSVCP140D.dll is missing from your comput
 Gameplay:
 ---------
 
-<br />
-
 https://www.youtube.com/watch?v=VBIoZxrHnYA&feature=youtu.be
+
+<br />
 
 Game Description:
 -----------------
